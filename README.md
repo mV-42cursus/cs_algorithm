@@ -32,7 +32,7 @@ Ford-Johnson 알고리즘(병합-삽입 정렬)은 비교 기반 정렬 알고�
 
 - 시간 복잡도: O(n log n) (평균 및 최악의 경우)
 - 실제 비교 횟수: 다른 O(n log n) 알고리즘들보다 적음
-![PmergeMe Demo](./fordJohnson/pmergeme_demo.gif)
+![PmergeMe Demo](./fordJohnson/binarySearch_performanceEnhancement.gif)
 
 ## 성능 개선
 
